@@ -1,0 +1,422 @@
+.text1{
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: right;
+    font-size: 300%;
+    border-right: 5px blue dotted;
+    background: tomato;
+    text-decoration-line: underline;
+}
+
+.box1{
+width: 22%;
+height: auto;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-right: 150px;
+margin-bottom: 150px;
+border-radius: 30px;
+padding-bottom: 35px;
+box-shadow: 5px 5px 5px 5px silver;
+
+}
+.box1 img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.box1 button{
+    border-radius: 5px 5px 5px 5px;
+    border: gold;
+    font-weight: 700;
+    background: gold;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    width: 50%;
+    cursor: pointer;
+}
+
+.box2{
+    width: 22%;
+height: auto;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-right: 100px;
+margin-bottom: 150px;
+margin-left: 50px;
+border-radius: 30px;
+padding-bottom: 30px;
+box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box2 img{
+    width: 100%;
+    height: 235px;
+    border-radius: 15px;
+}
+
+.box2 button{
+    border-radius: 5px 5px 5px 5px;
+    border: gold;
+    font-weight: 700;
+    background: gold;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    width: 50%;
+    cursor: pointer;
+}
+
+.box3{
+    width: 22%;
+height: auto;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-right: 40px;
+margin-bottom: 150px;
+margin-left: 90px;
+border-radius: 30px;
+padding-bottom: 30px;
+box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box3 img{
+    width: 100%;
+    height: 235px;
+    border-radius: 15px;
+}
+
+.box3 button{
+    border-radius: 5px 5px 5px 5px;
+    border: gold;
+    font-weight: 700;
+    background: gold;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    width: 50%;
+    cursor: pointer;
+}
+
+p{
+    color: gray;
+}
+
+.logo1{
+    width: 10%;
+height: 100px;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-left: 100px;
+margin-bottom: 100px;
+border-radius: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+box-shadow: 5px 5px 5px 5px silver;
+}
+
+.logo1 img{
+    width: 70%;
+    height: auto;
+    border-radius: 30px;
+    padding-top: 35px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.logo2{
+    width: 10%;
+    height: 100px;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.logo2 img{
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+    padding-top: 22px;
+    cursor: pointer;
+}
+
+.logo3{
+    width: 10%;
+    height: 100px;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.logo3 img{
+    width: 55%;
+    height: auto;
+    border-radius: 40px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.logo4{
+    width: 10%;
+    height: 100px;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.logo4 img{
+    width: 55%;
+    height: auto;
+    border-radius: 15px;
+    padding-top: 40px;
+    cursor: pointer;
+}
+
+.logo5{
+    width: 10%;
+    height: 100px;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.logo5 img{
+    width: 90%;
+    height: auto;
+    border-radius: 15px;
+    padding-top: 15px;
+    cursor: pointer;
+}
+
+.text2{
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: right;
+    font-size: 300%;
+    border-right: 5px blue dotted;
+    margin-bottom: 70px;
+    margin-top: 200px;
+    background: tomato;
+    text-decoration-line: underline;
+}
+
+.text3{
+    margin-top: 500px;
+    text-align: right;
+    font-size: 300%;
+    border-right: 5px blue dotted;
+    background: tomato;
+    text-decoration: underline;
+    margin-bottom: 90px;
+}
+
+.box4{
+    width: 25%;
+height: auto;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-right: 100px;
+margin-bottom: 150px;
+margin-left: 50px;
+border-radius: 30px;
+padding-bottom: 35px;
+box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box4 img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+h5{
+    color: gray;
+}
+
+
+.box5{
+    width: 25%;
+height: auto;
+background: whitesmoke;
+text-align: right;
+color: black;
+float: left;
+margin-right: 100px;
+margin-bottom: 150px;
+margin-left: 50px;
+border-radius: 30px;
+padding-bottom: 35px;
+box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box5 img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.box6{
+    width: 25%;
+    height: auto;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    margin-left: 50px;
+    border-radius: 30px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box6 img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.text4{
+    margin-top: 500px;
+    text-align: right;
+    font-size: 300%;
+    background: tomato;
+    border-right: 5px blue dotted;
+    text-decoration: underline;
+    margin-bottom: 90px;
+
+}
+
+body{
+    background-color: bisque;
+}
+
+.box7{
+    width: 20%;
+    height: 30%;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 150px;
+    margin-left: 50px;
+    border-radius: 30px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box7 img{
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 40px;
+}
+
+h4{
+    color: gray;
+}
+
+
+.box8{
+    width: 20%;
+    height: 30%;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    border-radius: 30px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box8 img{
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 40px;
+}
+
+
+.box9{
+    width: 20%;
+    height: 30%;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    border-radius: 30px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box9 img{
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 40px;
+}
+
+.box10{
+    width: 20%;
+    height: 30%;
+    background: whitesmoke;
+    text-align: right;
+    color: black;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    margin-left: 40px;
+    border-radius: 30px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 5px 5px silver;
+}
+
+.box10 img{
+    width: 60%;
+    height: auto;
+    border-radius: 10px 10px 10px 40px;
+}
+
